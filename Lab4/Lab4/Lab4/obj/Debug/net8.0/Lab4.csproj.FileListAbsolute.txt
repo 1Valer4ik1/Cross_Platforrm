@@ -1,0 +1,5 @@
+D:\Do not delete geras\Desktop\Кросплатформа1\Lab4\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do not delete geras\Desktop\Кросплатформа1\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+D:\Do not delete geras\Desktop\Кросплатформа1\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+D:\Do not delete geras\Desktop\Кросплатформа1\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+D:\Do not delete geras\Desktop\Кросплатформа1\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.AssemblyReference.cache
