@@ -1,4 +1,5 @@
-﻿using System;
+using Microsoft.VisualStudio.TestPlatform.TestHost;
+using System;
 using System.IO;
 using Xunit;
 
@@ -11,6 +12,7 @@ public class ProgramTests
         File.WriteAllText("INPUT.TXT", "3 3\n1 2 3\n4 1 5\n6 7 1");
 
         // Act
+        // Викликаємо основний метод програми
         Program.Main(Array.Empty<string>());
 
         // Assert
