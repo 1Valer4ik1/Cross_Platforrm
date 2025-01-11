@@ -1,5 +1,4 @@
-﻿using System;
-using System.IO;
+using System;
 
 public class UnitTest2
 {
@@ -86,10 +85,5 @@ public class UnitTest2
                 Console.WriteLine($"Test {i + 1} failed.");
             }
         }
-    }
-
-    public static void Main(string[] args)
-    {
-        RunTests(); // Виконання тестів
     }
 }
